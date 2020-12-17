@@ -10,8 +10,7 @@ This repository is the first step, to create my first project using Sanity (Prob
 
 ### Technologies I'm going to use:
 
-- HTML
-- CSS (Tailwind?)
+- CSS (js - css)
 - Javascript
 - React
 - GraphQl
