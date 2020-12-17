@@ -1,6 +1,6 @@
 # Basic-Gatsby
 
-This repository is the first step, to create my first project using Sanity (Probably a blog).
+This repository it's a playground, to learn about graphql and gatsby.
 
 ### My goals with this project:
 
